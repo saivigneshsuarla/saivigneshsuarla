@@ -20,7 +20,7 @@
 <!-- ===== ABOUT ME ===== -->
 ## 👋 About Me
 
-<img src="Coding.gif" align="right" width="400" alt="Coding GIF"/>
+<img src="https://raw.githubusercontent.com/saivigneshsuarla/saivigneshsuarla/main/Coding.gif" align="right" width="400" alt="Coding GIF"/>
 
 - 🌍 Based in **India**
 - 🎓 Passionate about **Software Development**
