@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5c4e84&height=100&section=footer" width="100%" alt="Footer"/>
+  <img src="https://raw.githubusercontent.com/saivigneshsuarla/saivigneshsuarla/main/Bottom.gif" width="100%" alt="Bottom GIF"/>
 </div>
 
 <br/>
